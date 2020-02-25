@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(stdlib.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  delegate.cpp
+c:\users\sunhy\onedrive\문서\univ\2-2\class\lab\0916\stdlib\stdlib\delegate.cpp(52): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+c:\users\sunhy\onedrive\문서\univ\2-2\class\lab\0916\stdlib\stdlib\delegate.cpp(55): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+  stdlib.vcxproj -> C:\Users\sunhy\OneDrive\문서\Univ\2-2\CLASS\LAB\0916\stdlib\Debug\delegate class.exe

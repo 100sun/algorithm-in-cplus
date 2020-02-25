@@ -1,0 +1,5 @@
+Apple 12345 3.49
+Eggs_6cnt 45678 1.99
+Paper_towels 87765 4.99
+Pizza 55665 5.99
+Chewing_gum 98765 0.99

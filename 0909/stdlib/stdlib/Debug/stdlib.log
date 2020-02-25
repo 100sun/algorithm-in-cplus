@@ -1,0 +1,3 @@
+﻿  grocery_main.cpp
+c:\users\sunhy\onedrive\문서\univ\2-2\class\lab\0909\stdlib\stdlib\grocery_main.cpp(136): error C2084: 'grocery_bill::grocery_bill(void)' 함수에 이미 본문이 있습니다.
+  c:\users\sunhy\onedrive\문서\univ\2-2\class\lab\0909\stdlib\stdlib\grocery_main.cpp(52): note: '{ctor}'의 이전 정의를 참조하십시오.

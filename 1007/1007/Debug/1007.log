@@ -1,0 +1,3 @@
+﻿  initializer_list.cpp
+c:\users\sunhy\onedrive\문서\univ\2-2\class\lab\1007\1007\initializer_list.cpp(37): warning C4804: '<': unsafe use of type 'bool' in operation
+  1007.vcxproj -> C:\Users\sunhy\OneDrive\문서\Univ\2-2\CLASS\LAB\1007\Debug\1007.exe

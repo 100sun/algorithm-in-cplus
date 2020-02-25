@@ -1,0 +1,7 @@
+los_angeles_rams 7 0.571 1350
+new_orleans_saints 6 0.75 1650
+buffalo_bills 5 0.814 1600
+seattle_seahawks 7 0.714 1550
+san_francisco_49ers 6 1.000 1950
+green_bay_packers 6 0.833 1650
+new_england_patriots 7 0.786 1650

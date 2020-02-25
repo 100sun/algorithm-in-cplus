@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\sunhy\onedrive\문서\univ\2-2\class\lab\1009_quiz\1009_quiz\main.cpp(65): warning C4804: '>': unsafe use of type 'bool' in operation
+  1009_quiz.vcxproj -> C:\Users\sunhy\OneDrive\문서\Univ\2-2\CLASS\LAB\1009_quiz\Debug\assessment.exe
